@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+python-jose
+bcrypt
+python-multipart
+sentence-transformers
+faiss-cpu
+google-generativeai
+websockets
+pydantic-settings
+redis
+qdrant-client
